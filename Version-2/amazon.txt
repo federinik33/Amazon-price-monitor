@@ -1,9 +1,3 @@
-15,https://www.amazon.it/dp/B005LDLUW8/ref=twister_B07YCH15B8?_encoding=UTF8&psc=1
 40,https://www.amazon.it/dp/B0784SLQM6/ref=twister_B08BVGRM7C?_encoding=UTF8&psc=1
-15,https://www.amazon.it/gp/product/B07HNHGK1W/ref=ox_sc_act_title_3?smid=A4C5ROEKEULGF&psc=1
 15,https://www.amazon.it/dp/B01N6JQS8C/ref=twister_B084LD5PTZ?_encoding=UTF8&psc=1
 40,https://www.amazon.it/dp/B01N0TQPQB/ref=twister_B084LD5PTZ?_encoding=UTF8&psc=1
-50,https://www.amazon.it/dp/B07SV149Q3
-11,https://www.amazon.it/gp/product/B074FFV6QR/ref=ox_sc_act_title_2?smid=A11IL2PNWYJU7H&psc=1
-11,https://www.amazon.it/gp/product/B07JF3HJN1/ref=ox_sc_saved_title_5?smid=AYPMFC5YDB5VE&psc=1
-5,https://www.amazon.it/gp/product/B07CNFFTKC/ref=ox_sc_saved_title_4?smid=A3IT7DDCRFT0HC&psc=1
