@@ -31,6 +31,11 @@ def check_price(budget,link):
     price = product_price.get_text().replace(',', '.').replace('€', '').replace(' ', '').strip()
   else:
     price= "999999"
+    product_price = soup.find(id="priceblock_pospromoprice")
+    if product_price is not None:
+        price = product_price.get_text().replace(',', '.').replace('€', '').replace(' ', '').strip()
+    else:
+        price= "999999"
 
 
   print(title.strip())
